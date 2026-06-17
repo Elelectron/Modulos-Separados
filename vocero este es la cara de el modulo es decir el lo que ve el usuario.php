@@ -89,6 +89,7 @@ require_once "../componentes/encabezado.php";
                     <option value="CCTV">CCTV</option>
                     <option value="Anuncios">Anuncios</option>
                     <option value="Redes">Redes</option>
+                    <option value="Almacén de Desecho">Almacén de Desecho / Chatarra</option>  
                   </select>
                 </div>
               </div>
